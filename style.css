@@ -5,3 +5,9 @@ div.main {
 .main {
     color:green;
 }
+
+/* Posso scrivere la regola anche dentro la precedente, direttamente sotto a backgroun-color:
+   .main {
+    background-color:red;
+    color:green;
+    }
