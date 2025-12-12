@@ -1,0 +1,3 @@
+function printdiv($content, $class){
+	echo "<div class='$class'>'$content'</div>";
+	}
